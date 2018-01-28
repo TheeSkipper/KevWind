@@ -545,8 +545,8 @@ h6 {
 
 .main-logo {
     position: absolute;
-    max-width: 300px;
-    padding-bottom: 10px;
+    max-width: 340px;
+    padding-bottom: 5px;
 }
 
 .main-logo.fixed {
