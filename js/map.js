@@ -28,7 +28,7 @@
      var map = new google.maps.Map(mapElement, mapOptions);
 
      // Let's also add a marker while we're at it
-     var iconBase = 'img/5Asset 1.svg';
+     var iconBase = 'img/6Asset 1.svg';
      var marker = new google.maps.Marker({
          position: new google.maps.LatLng(38.704004, -90.290914),
          map: map,
